@@ -1,0 +1,5 @@
+set "jars_path=.\jars"
+set "build_path=.\build"
+set "source_path=..\src\main\java"
+set "appjar_path=%jars_path%\GestioneEsami.jar"
+set "javafx_sdk_path=.\libs\javafx-sdk-21.0.2\lib"
